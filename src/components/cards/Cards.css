@@ -1,0 +1,30 @@
+.container__i_card_sm{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+.image__card{
+    width: 400px; 
+    border-radius: 15px;
+    transition: 500ms;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.image__card:hover{
+    transform: scale(1.01);
+    transition: 500ms;
+    opacity: 1;
+}
+
+.image__name-card{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.link__image{
+    text-decoration: none;
+}

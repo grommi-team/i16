@@ -1,0 +1,35 @@
+.bg-card{
+    background-color: #000;
+}
+
+.bg-cosmetic-nav{
+    margin: 0;
+    padding: 8rem 0rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #000;
+    width: 100%;
+}
+
+.nav__cosmetic{
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+    width: 50%;
+}
+
+.list__item{
+    list-style: none;
+    margin: 16px;
+}
+
+.list__item-a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #f1f1f1
+}
+.list__item-a{
+    text-decoration: none;
+    color: #fff
+}
