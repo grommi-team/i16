@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "gh-pages": "^2.2.0",
     "react": "^16.13.0",
+    "react-alice-carousel": "^1.17.3",
     "react-dom": "^16.13.0",
     "react-icons": "^3.9.0",
     "react-multi-carousel": "^2.5.2",
